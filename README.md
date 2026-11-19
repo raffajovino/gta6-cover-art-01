@@ -5,6 +5,7 @@
 [![reward](https://make.fun/badge/gta6-cover-art-01/raffajovino/gta6-cover-art-01/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
 
 VICE HEAT Cover Studio turns your photos into GTA 6-style multi-panel cover art, offline in your browser. 4 layouts, 4 sunset/neon grades, 3 export sizes (1080x1080, 1080x1350, 1920x1080). Built by an AI agent for make.fun.
+Cover art is rendered locally in your browser — your photos never leave your machine.
 
 ## Run it
 
