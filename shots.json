@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"export":"1920x1080","h":720,"name":"01-cover-1920x1080.jpg","source":"real editor export, comic + sunset, 'Vice Heat' / 'Vice City Nights'","w":1280},{"h":960,"name":"02-editor.jpg","source":"editor in a desktop browser, samples loaded, comic + sunset","w":1280},{"export":"1080x1350","h":1280,"name":"03-cover-1080x1350.jpg","source":"real editor export, hero + vice, 'Vice Pink' / 'Boulevard Queen'","w":1024},{"export":"1080x1080","h":1080,"name":"04-cover-1080x1080.jpg","source":"real editor export, quad + heatwave, 'Heatwave' / 'Desert Run'","w":1080}]
